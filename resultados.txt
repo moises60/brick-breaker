@@ -1,0 +1,5 @@
+moisés: 210
+manolo: 250
+juan: 70
+marta: 50
+ana: 320
